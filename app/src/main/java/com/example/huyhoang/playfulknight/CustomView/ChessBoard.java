@@ -25,7 +25,9 @@ public class ChessBoard extends View{
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
 
+        rows = new ArrayList<>();
+
         //comment
-        
+
     }
 }

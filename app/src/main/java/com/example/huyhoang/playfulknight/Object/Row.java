@@ -1,6 +1,7 @@
 package com.example.huyhoang.playfulknight.Object;
 
-import com.tutorial.huyhoang.hoursegotogoal.CustomView.ChessBoard;
+
+import com.example.huyhoang.playfulknight.CustomView.ChessBoard;
 
 import java.util.ArrayList;
 
