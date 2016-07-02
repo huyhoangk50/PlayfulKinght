@@ -24,5 +24,8 @@ public class ChessBoard extends View{
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
+
+        //comment
+        
     }
 }
