@@ -1,7 +1,9 @@
-package com.example.huyhoang.playfulknight;
+package com.example.huyhoang.playfulknight.Activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.huyhoang.playfulknight.R;
 
 public class MainActivity extends AppCompatActivity {
 
